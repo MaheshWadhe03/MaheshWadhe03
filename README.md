@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MaheshWadhe03
-- 👀 I’m interested in photography and art
-- 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on AI bots and simple problem solving in C and Python 
+-  Hi, I’m @MaheshWadhe03
+-  AIML
+
 
 <!---
 MaheshWadhe03/MaheshWadhe03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
